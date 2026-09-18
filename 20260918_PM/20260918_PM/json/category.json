@@ -1,0 +1,18 @@
+[
+    {
+        "category_number":"1",
+        "category_name":"Restaurent"
+    },
+    {
+        "category_number":"2",
+        "category_name":"Book shop"
+    },
+    {
+        "category_number":"3",
+        "category_name":"Electrical shop"
+    },
+    {
+        "category_number":"4",
+        "category_name":"Apparel shop"
+    }
+]

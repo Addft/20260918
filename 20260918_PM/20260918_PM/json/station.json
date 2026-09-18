@@ -1,0 +1,26 @@
+[
+    {
+        "station_number":"1",
+        "station_name":"Shinjuku Station",
+        "station_address":"3-38-1 Shinjuku, Shinjuku-ku, Tokyo",
+        "latitude":"35.690921",
+        "longitude":"139.700258",
+        "webpage":"https://www.jreast.co.jp/estation/station/info.aspx?StationCd=866"
+    },
+    {
+        "station_number":"2",
+        "station_name":"Ikebukuro Station",
+        "station_address":"1-28-2 Minamiikebukuro, Toshima-ku, Tokyo",
+        "latitude":"35.728926",
+        "longitude":"139.71038",
+        "webpage":"https://www.tokyometro.jp/station/ikebukuro/index.html"
+    },
+    {
+        "station_number":"3",
+        "station_name":"Yokohama Station",
+        "station_address":"2-16-1 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "latitude":"35.466188",
+        "longitude":"139.622715",
+        "webpage":"https://www.jreast.co.jp/estation/station/info.aspx?StationCd=1638"
+    }
+]

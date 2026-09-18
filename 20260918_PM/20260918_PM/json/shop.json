@@ -1,0 +1,1092 @@
+[
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent1",
+        "shop_address":"1st Floor, Shinjuku Plaza Building, 3-1-1 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.691333",
+        "shop_longitude":"139.703833",
+        "webpage":"www.sushizanmai.com",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop1",
+        "shop_address":"2nd Floor, Nishi-Shinjuku Building, 1-2-3 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.69025",
+        "shop_longitude":"139.696722",
+        "webpage":"www.kinokuniya.co.jp",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop1",
+        "shop_address":"3rd Floor, Kabukicho Tower, 1-3-4 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.693722",
+        "shop_longitude":"139.704139",
+        "webpage":"www.biccamera.co.jp",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop1",
+        "shop_address":"4th Floor, Shinjuku South Building, 4-5-6 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.685667",
+        "shop_longitude":"139.7055",
+        "webpage":"www.uniqlo.com",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent2",
+        "shop_address":"5th Floor, Nishi-Shinjuku Park Building, 2-6-7 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.689444",
+        "shop_longitude":"139.691556",
+        "webpage":"www.ichiran.co.jp",
+        "phone_number":"03-5678-9012",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop2",
+        "shop_address":"6th Floor, Kabukicho East Building, 2-8-9 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.694",
+        "shop_longitude":"139.704722",
+        "webpage":"www.bookoff.co.jp",
+        "phone_number":"03-6789-0123",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop2",
+        "shop_address":"7th Floor, Shinjuku Garden Building, 5-10-11 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.684833",
+        "shop_longitude":"139.699833",
+        "webpage":"www.donki.com",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop2",
+        "shop_address":"8th Floor, Nishi-Shinjuku Sky Building, 3-12-13 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.688611",
+        "shop_longitude":"139.690833",
+        "webpage":"www.hm.com",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent3",
+        "shop_address":"9th Floor, Kabukicho Central Building, 3-14-15 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.694944",
+        "shop_longitude":"139.705583",
+        "webpage":"www.yoshinoya.com",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop3",
+        "shop_address":"10th Floor, Shinjuku City Building, 6-16-17 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.683333",
+        "shop_longitude":"139.701667",
+        "webpage":"www.tsutaya.co.jp",
+        "phone_number":"03-0123-4567",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop3",
+        "shop_address":"11th Floor, Nishi-Shinjuku Hills Building, 4-18-19 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.687222",
+        "shop_longitude":"139.690833",
+        "webpage":"www.bigecho.jp",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop3",
+        "shop_address":"12th Floor, Kabukicho Mall Building, 4-20-21 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.695222",
+        "shop_longitude":"139.706222",
+        "webpage":"www.gu-japan.com",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent4",
+        "shop_address":"13th Floor, Shinjuku Green Building, 7-22-23 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.6825",
+        "shop_longitude":"139.699722",
+        "webpage":"www.sukiya.jp",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop4",
+        "shop_address":"14th Floor, Nishi-Shinjuku View Tower, 5-24-25 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.686944",
+        "shop_longitude":"139.690833",
+        "webpage":"www.maruzen.co.jp",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop4",
+        "shop_address":"15th Floor, Kabukicho Heights Building, 5-26-27 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.696111",
+        "shop_longitude":"139.705278",
+        "webpage":"www.yamada-denki.jp",
+        "phone_number":"03-5678-9012",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop4",
+        "shop_address":"16th Floor, Shinjuku Sunrise Building, 8-28-29 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.681389",
+        "shop_longitude":"139.700833",
+        "webpage":"www.zara.com",
+        "phone_number":"03-6789-0123",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent5",
+        "shop_address":"17th Floor, Nishi-Shinjuku Light Building, 6-30-31 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.6875",
+        "shop_longitude":"139.691111",
+        "webpage":"www.kfc.co.jp",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop5",
+        "shop_address":"18th Floor, Kabukicho Star Building, 6-32-33 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.6975",
+        "shop_longitude":"139.705",
+        "webpage":"www.junkudo.co.jp",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop5",
+        "shop_address":"19th Floor, Shinjuku Premium Building, 9-34-35 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.680833",
+        "shop_longitude":"139.701667",
+        "webpage":"www.sofmap.com",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop5",
+        "shop_address":"20th Floor, Nishi-Shinjuku Rainbow Building, 7-36-37 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.688056",
+        "shop_longitude":"139.691944",
+        "webpage":"www.forever21.com",
+        "phone_number":"03-0123-4567",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent6",
+        "shop_address":"21st Floor, Kabukicho West Building, 7-38-39 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.698333",
+        "shop_longitude":"139.705833",
+        "webpage":"www.starbucks.co.jp",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop6",
+        "shop_address":"22nd Floor, Shinjuku North Building, 10-40-41 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.679167",
+        "shop_longitude":"139.7025",
+        "webpage":"www.shosen.co.jp",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop6",
+        "shop_address":"23rd Floor, Nishi-Shinjuku Silver Building, 8-42-43 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.689444",
+        "shop_longitude":"139.6925",
+        "webpage":"www.yodobashi.com",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop6",
+        "shop_address":"24th Floor, Kabukicho Blue Building, 8-44-45 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.699722",
+        "shop_longitude":"139.706111",
+        "webpage":"www.gap.co.jp",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent7",
+        "shop_address":"25th Floor, Shinjuku Southeast Building, 11-46-47 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.678333",
+        "shop_longitude":"139.703611",
+        "webpage":"www.mcdonalds.co.jp",
+        "phone_number":"03-5678-9012",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop7",
+        "shop_address":"26th Floor, Nishi-Shinjuku Color Building, 9-48-49 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.69",
+        "shop_longitude":"139.693333",
+        "webpage":"www.abcbooks.co.jp",
+        "phone_number":"03-6789-0123",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop7",
+        "shop_address":"27th Floor, Kabukicho Global Building, 9-50-51 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.700278",
+        "shop_longitude":"139.706667",
+        "webpage":"www.kojima.net",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop7",
+        "shop_address":"28th Floor, Shinjuku Westside Building, 12-52-53 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.6775",
+        "shop_longitude":"139.704722",
+        "webpage":"www.hm.com",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent8",
+        "shop_address":"29th Floor, Nishi-Shinjuku Gray Building, 10-54-55 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.691389",
+        "shop_longitude":"139.694722",
+        "webpage":"www.ramen-jiro.jp",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop8",
+        "shop_address":"30th Floor, Kabukicho East Tower, 10-56-57 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.701389",
+        "shop_longitude":"139.707222",
+        "webpage":"www.tsutaya.co.jp",
+        "phone_number":"03-0123-4567",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop8",
+        "shop_address":"31st Floor, Shinjuku Urban Building, 13-58-59 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.676667",
+        "shop_longitude":"139.705",
+        "webpage":"www.biccamera.co.jp",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop8",
+        "shop_address":"32nd Floor, Nishi-Shinjuku Pacific Building, 11-60-61 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.6925",
+        "shop_longitude":"139.695556",
+        "webpage":"www.gu-japan.com",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent9",
+        "shop_address":"33rd Floor, Kabukicho Riverside Building, 11-62-63 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.702778",
+        "shop_longitude":"139.708333",
+        "webpage":"www.sukiya.jp",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop9",
+        "shop_address":"34th Floor, Shinjuku Royal Building, 14-64-65 Shinjuku, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.675833",
+        "shop_longitude":"139.706944",
+        "webpage":"www.maruzen.co.jp",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent10",
+        "shop_address":"1st Floor, Soul Town, 2-2-7 Hyakunincho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.693611",
+        "shop_longitude":"139.709444",
+        "webpage":"www.hellodonuts.jp",
+        "phone_number":"03-6380-2449",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop10",
+        "shop_address":"Seikodo Building, 2-1-4 Hyakunincho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.693056",
+        "shop_longitude":"139.706389",
+        "webpage":"www.Moriyoshido.jp",
+        "phone_number":"03-3209-5630",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop9",
+        "shop_address":"1st Floor, Kurita Building, 1-17-1 Kabukicho, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.694056",
+        "shop_longitude":"139.703861",
+        "webpage":"www.janpara.co.jp",
+        "phone_number":"03-3228-9444",
+        "nearby_station":"1"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent11",
+        "shop_address":"1st Floor, Minami-Ikebukuro Building, 1-1-1 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729333",
+        "shop_longitude":"139.7115",
+        "webpage":"www.yakiniku-king.jp",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop11",
+        "shop_address":"2nd Floor, Nishi-Ikebukuro Building, 2-2-2 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731222",
+        "shop_longitude":"139.710222",
+        "webpage":"www.junkudo.co.jp",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop10",
+        "shop_address":"3rd Floor, Higashi-Ikebukuro Tower, 3-3-3 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.732",
+        "shop_longitude":"139.716611",
+        "webpage":"www.yodobashi.com",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop9",
+        "shop_address":"4th Floor, Minami-Ikebukuro Plaza, 4-4-4 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.728333",
+        "shop_longitude":"139.713667",
+        "webpage":"www.zara.com",
+        "phone_number":"03-0123-4567",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent12",
+        "shop_address":"5th Floor, Nishi-Ikebukuro South Building, 5-5-5 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.7285",
+        "shop_longitude":"139.709778",
+        "webpage":"www.mos.co.jp",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop12",
+        "shop_address":"6th Floor, Higashi-Ikebukuro East Building, 6-6-6 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.732722",
+        "shop_longitude":"139.716167",
+        "webpage":"www.tsutaya.co.jp",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop11",
+        "shop_address":"7th Floor, Minami-Ikebukuro Garden, 7-7-7 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731167",
+        "shop_longitude":"139.716333",
+        "webpage":"www.bigecho.jp",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop10",
+        "shop_address":"8th Floor, Nishi-Ikebukuro Hills, 8-8-8 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.728611",
+        "shop_longitude":"139.709611",
+        "webpage":"www.gu-japan.com",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent13",
+        "shop_address":"9th Floor, Higashi-Ikebukuro Central Building, 9-9-9 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731944",
+        "shop_longitude":"139.716556",
+        "webpage":"www.sukiya.jp",
+        "phone_number":"03-5678-9012",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop13",
+        "shop_address":"10th Floor, Minami-Ikebukuro City Building, 10-10-10 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729444",
+        "shop_longitude":"139.713056",
+        "webpage":"www.maruzen.co.jp",
+        "phone_number":"03-6789-0123",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop12",
+        "shop_address":"11th Floor, Nishi-Ikebukuro Park Building, 11-11-11 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731389",
+        "shop_longitude":"139.715556",
+        "webpage":"www.sofmap.com",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop11",
+        "shop_address":"12th Floor, Higashi-Ikebukuro Mall Building, 12-12-12 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731944",
+        "shop_longitude":"139.715556",
+        "webpage":"www.forever21.com",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent14",
+        "shop_address":"13th Floor, Minami-Ikebukuro Green Building, 13-13-13 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.73",
+        "shop_longitude":"139.714444",
+        "webpage":"www.starbucks.co.jp",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop14",
+        "shop_address":"14th Floor, Nishi-Ikebukuro View Tower, 14-14-14 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.728056",
+        "shop_longitude":"139.709722",
+        "webpage":"www.shosen.co.jp",
+        "phone_number":"03-0123-4567",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop13",
+        "shop_address":"15th Floor, Higashi-Ikebukuro Heights Building, 15-15-15 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.7325",
+        "shop_longitude":"139.717222",
+        "webpage":"www.yodobashi.com",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop12",
+        "shop_address":"16th Floor, Minami-Ikebukuro Sunrise Building, 16-16-16 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731389",
+        "shop_longitude":"139.715",
+        "webpage":"www.gap.co.jp",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent15",
+        "shop_address":"17th Floor, Nishi-Ikebukuro Light Building, 17-17-17 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729167",
+        "shop_longitude":"139.709444",
+        "webpage":"www.mcdonalds.co.jp",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop15",
+        "shop_address":"18th Floor, Higashi-Ikebukuro Star Building, 18-18-18 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.733056",
+        "shop_longitude":"139.717222",
+        "webpage":"www.abcbooks.co.jp",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop14",
+        "shop_address":"19th Floor, Minami-Ikebukuro Premium Building, 19-19-19 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.730556",
+        "shop_longitude":"139.714444",
+        "webpage":"www.kojima.net",
+        "phone_number":"03-5678-9012",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop13",
+        "shop_address":"20th Floor, Nishi-Ikebukuro Rainbow Building, 20-20-20 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729167",
+        "shop_longitude":"139.709444",
+        "webpage":"www.hm.com",
+        "phone_number":"03-6789-0123",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent16",
+        "shop_address":"21st Floor, Higashi-Ikebukuro West Building, 21-21-21 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.733889",
+        "shop_longitude":"139.718611",
+        "webpage":"www.ramen-jiro.jp",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop16",
+        "shop_address":"22nd Floor, Minami-Ikebukuro North Building, 22-22-22 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.730833",
+        "shop_longitude":"139.714722",
+        "webpage":"www.tsutaya.co.jp",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop15",
+        "shop_address":"23rd Floor, Nishi-Ikebukuro Silver Building, 23-23-23 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729722",
+        "shop_longitude":"139.710278",
+        "webpage":"www.biccamera.co.jp",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop14",
+        "shop_address":"24th Floor, Higashi-Ikebukuro Blue Building, 24-24-24 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.734444",
+        "shop_longitude":"139.719167",
+        "webpage":"www.gu-japan.com",
+        "phone_number":"03-0123-4567",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent17",
+        "shop_address":"25th Floor, Minami-Ikebukuro Southeast Building, 25-25-25 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.731111",
+        "shop_longitude":"139.715278",
+        "webpage":"www.sukiya.jp",
+        "phone_number":"03-1234-5678",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop17",
+        "shop_address":"26th Floor, Nishi-Ikebukuro Color Building, 26-26-26 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729722",
+        "shop_longitude":"139.710278",
+        "webpage":"www.maruzen.co.jp",
+        "phone_number":"03-2345-6789",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop16",
+        "shop_address":"27th Floor, Higashi-Ikebukuro Global Building, 27-27-27 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.735",
+        "shop_longitude":"139.719722",
+        "webpage":"www.yamada-denki.jp",
+        "phone_number":"03-3456-7890",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop15",
+        "shop_address":"28th Floor, Minami-Ikebukuro Westside Building, 28-28-28 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.732222",
+        "shop_longitude":"139.7175",
+        "webpage":"www.zara.com",
+        "phone_number":"03-4567-8901",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent18",
+        "shop_address":"29th Floor, Nishi-Ikebukuro Gray Building, 29-29-29 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.73",
+        "shop_longitude":"139.713333",
+        "webpage":"www.kfc.co.jp",
+        "phone_number":"03-5678-9012",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop18",
+        "shop_address":"30th Floor, Higashi-Ikebukuro East Tower, 30-30-30 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.736111",
+        "shop_longitude":"139.720833",
+        "webpage":"www.junkudo.co.jp",
+        "phone_number":"03-6789-0123",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop17",
+        "shop_address":"31st Floor, Minami-Ikebukuro Urban Building, 31-31-31 Minami-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.732778",
+        "shop_longitude":"139.718333",
+        "webpage":"www.sofmap.com",
+        "phone_number":"03-7890-1234",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop16",
+        "shop_address":"32nd Floor, Nishi-Ikebukuro Pacific Building, 32-32-32 Nishi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.729722",
+        "shop_longitude":"139.710278",
+        "webpage":"www.forever21.com",
+        "phone_number":"03-8901-2345",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent19",
+        "shop_address":"33rd Floor, Higashi-Ikebukuro Riverside Building, 33-33-33 Higashi-Ikebukuro, Toshima-ku, Tokyo",
+        "shop_latitude":"35.7375",
+        "shop_longitude":"139.721944",
+        "webpage":"www.starbucks.co.jp",
+        "phone_number":"03-9012-3456",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent20",
+        "shop_address":"2nd Floor, Prime Gate, 2-13 Takadanobaba, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.712",
+        "shop_longitude":"139.704583",
+        "webpage":"www.hama-sushi.co.jp",
+        "phone_number":"0570-081-446",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop19",
+        "shop_address":"3rd & 4th Floors, Fi Building, 1-26-5 Takadanobaba, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.712111",
+        "shop_longitude":"139.706944",
+        "webpage":"www.oldbook.jp",
+        "phone_number":"03-3202-8201",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop18",
+        "shop_address":"2nd Floor, MF Building, 3-3-2 Takadanobaba, Shinjuku-ku, Tokyo",
+        "shop_latitude":"35.712722",
+        "shop_longitude":"139.7055",
+        "webpage":"www.tonylemobile.com",
+        "phone_number":"090-4949-1368",
+        "nearby_station":"2"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent21",
+        "shop_address":"1st Floor, Minamisaiwai Building, 1-1-1 Minamisaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.464357",
+        "shop_longitude":"139.620906",
+        "webpage":"www.yokohamaramen.jp",
+        "phone_number":"045-1234-5678",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop20",
+        "shop_address":"2nd Floor, Kitasaiwai Building, 2-2-2 Kitasaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.462797",
+        "shop_longitude":"139.625426",
+        "webpage":"www.maruzen.co.jp",
+        "phone_number":"045-2345-6789",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop19",
+        "shop_address":"3rd Floor, Takashima Tower, 3-3-3 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.463977",
+        "shop_longitude":"139.614243",
+        "webpage":"www.sofmap.com",
+        "phone_number":"045-3456-7890",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop17",
+        "shop_address":"4th Floor, Minatomirai Plaza, 4-4-4 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.454141",
+        "shop_longitude":"139.633625",
+        "webpage":"www.gu-japan.com",
+        "phone_number":"045-4567-8901",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent22",
+        "shop_address":"5th Floor, Hiranuma South Building, 5-5-5 Hiranuma, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.46",
+        "shop_longitude":"139.616456",
+        "webpage":"www.yoshinoya.com",
+        "phone_number":"045-5678-9012",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop21",
+        "shop_address":"6th Floor, Okano East Building, 6-6-6 Okano, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.459748",
+        "shop_longitude":"139.607725",
+        "webpage":"www.tsutaya.co.jp",
+        "phone_number":"045-6789-0123",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop20",
+        "shop_address":"7th Floor, Minamisaiwai Garden, 7-7-7 Minamisaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.464159",
+        "shop_longitude":"139.620664",
+        "webpage":"www.bigecho.jp",
+        "phone_number":"045-7890-1234",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop18",
+        "shop_address":"8th Floor, Kitasaiwai Hills, 8-8-8 Kitasaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.462308",
+        "shop_longitude":"139.627124",
+        "webpage":"www.zara.com",
+        "phone_number":"045-8901-2345",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent23",
+        "shop_address":"9th Floor, Takashima Central Building, 9-9-9 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.463019",
+        "shop_longitude":"139.615202",
+        "webpage":"www.kfc.co.jp",
+        "phone_number":"045-9012-3456",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop22",
+        "shop_address":"10th Floor, Minatomirai City Building, 10-10-10 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.455213",
+        "shop_longitude":"139.633064",
+        "webpage":"www.junkudo.co.jp",
+        "phone_number":"045-0123-4567",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop21",
+        "shop_address":"11th Floor, Hiranuma Park Building, 11-11-11 Hiranuma, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.46041",
+        "shop_longitude":"139.618862",
+        "webpage":"www.yodobashi.com",
+        "phone_number":"045-1234-5678",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop19",
+        "shop_address":"12th Floor, Okano Mall Building, 12-12-12 Okano, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.459351",
+        "shop_longitude":"139.609157",
+        "webpage":"www.gap.co.jp",
+        "phone_number":"045-2345-6789",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent24",
+        "shop_address":"13th Floor, Minamisaiwai Green Building, 13-13-13 Minamisaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.464108",
+        "shop_longitude":"139.621427",
+        "webpage":"www.mcdonalds.co.jp",
+        "phone_number":"045-3456-7890",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop23",
+        "shop_address":"14th Floor, Kitasaiwai View Tower, 14-14-14 Kitasaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.462241",
+        "shop_longitude":"139.625785",
+        "webpage":"www.abcbooks.co.jp",
+        "phone_number":"045-4567-8901",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop22",
+        "shop_address":"15th Floor, Takashima Heights Building, 15-15-15 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.463193",
+        "shop_longitude":"139.616261",
+        "webpage":"www.kojima.net",
+        "phone_number":"045-5678-9012",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop20",
+        "shop_address":"16th Floor, Minatomirai Sunrise Building, 16-16-16 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.455051",
+        "shop_longitude":"139.633252",
+        "webpage":"www.hm.com",
+        "phone_number":"045-6789-0123",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent25",
+        "shop_address":"17th Floor, Hiranuma Light Building, 17-17-17 Hiranuma, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.460865",
+        "shop_longitude":"139.619988",
+        "webpage":"www.ramen-jiro.jp",
+        "phone_number":"045-7890-1234",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop24",
+        "shop_address":"18th Floor, Okano Star Building, 18-18-18 Okano, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.459607",
+        "shop_longitude":"139.609937",
+        "webpage":"www.tsutaya.co.jp",
+        "phone_number":"045-8901-2345",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop23",
+        "shop_address":"19th Floor, Minamisaiwai Premium Building, 19-19-19 Minamisaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.464432",
+        "shop_longitude":"139.621114",
+        "webpage":"www.biccamera.co.jp",
+        "phone_number":"045-9012-3456",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop21",
+        "shop_address":"20th Floor, Kitasaiwai Rainbow Building, 20-20-20 Kitasaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.462581",
+        "shop_longitude":"139.62438",
+        "webpage":"www.gu-japan.com",
+        "phone_number":"045-0123-4567",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent26",
+        "shop_address":"21st Floor, Takashima West Building, 21-21-21 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.463419",
+        "shop_longitude":"139.615322",
+        "webpage":"www.sukiya.jp",
+        "phone_number":"045-1234-5678",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop25",
+        "shop_address":"22nd Floor, Minatomirai North Building, 22-22-22 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.455601",
+        "shop_longitude":"139.634138",
+        "webpage":"www.maruzen.co.jp",
+        "phone_number":"045-2345-6789",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop24",
+        "shop_address":"23rd Floor, Hiranuma Silver Building, 23-23-23 Hiranuma, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.460335",
+        "shop_longitude":"139.620489",
+        "webpage":"www.yamada-denki.jp",
+        "phone_number":"045-3456-7890",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop22",
+        "shop_address":"24th Floor, Okano Blue Building, 24-24-24 Okano, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.45952",
+        "shop_longitude":"139.610149",
+        "webpage":"www.zara.com",
+        "phone_number":"045-4567-8901",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent27",
+        "shop_address":"25th Floor, Minamisaiwai Southeast Building, 25-25-25 Minamisaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.464655",
+        "shop_longitude":"139.620375",
+        "webpage":"www.kfc.co.jp",
+        "phone_number":"045-5678-9012",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop26",
+        "shop_address":"26th Floor, Kitasaiwai Color Building, 26-26-26 Kitasaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.462526",
+        "shop_longitude":"139.62491",
+        "webpage":"www.junkudo.co.jp",
+        "phone_number":"045-6789-0123",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop25",
+        "shop_address":"27th Floor, Takashima Global Building, 27-27-27 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.463489",
+        "shop_longitude":"139.616345",
+        "webpage":"www.sofmap.com",
+        "phone_number":"045-7890-1234",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop23",
+        "shop_address":"28th Floor, Minatomirai Westside Building, 28-28-28 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.45597",
+        "shop_longitude":"139.633946",
+        "webpage":"www.forever21.com",
+        "phone_number":"045-8901-2345",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent28",
+        "shop_address":"29th Floor, Hiranuma Gray Building, 29-29-29 Hiranuma, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.460606",
+        "shop_longitude":"139.620222",
+        "webpage":"www.starbucks.co.jp",
+        "phone_number":"045-9012-3456",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop27",
+        "shop_address":"30th Floor, Okano East Tower, 30-30-30 Okano, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.459767",
+        "shop_longitude":"139.610247",
+        "webpage":"www.shosen.co.jp",
+        "phone_number":"045-0123-4567",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop26",
+        "shop_address":"31st Floor, Minamisaiwai Urban Building, 31-31-31 Minamisaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.464791",
+        "shop_longitude":"139.620029",
+        "webpage":"www.yodobashi.com",
+        "phone_number":"045-1234-5678",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop24",
+        "shop_address":"32nd Floor, Kitasaiwai Pacific Building, 32-32-32 Kitasaiwai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.462671",
+        "shop_longitude":"139.625061",
+        "webpage":"www.gap.co.jp",
+        "phone_number":"045-2345-6789",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"4",
+        "shop_name":"Apparel shop25",
+        "shop_address":"33rd Floor, Takashima Riverside Building, 33-33-33 Takashima, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.463774",
+        "shop_longitude":"139.615614",
+        "webpage":"www.uniqlo.com",
+        "phone_number":"045-9876-5432",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"1",
+        "shop_name":"Restaurent29",
+        "shop_address":"1st Floor, Kure Building, 2-5-1 Suehirocho, Naka-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.443597",
+        "shop_longitude":"139.644648",
+        "webpage":"www.steak-house.com",
+        "phone_number":"045-308-9529",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"2",
+        "shop_name":"Book shop28",
+        "shop_address":"Hinode Studio Building 3, 2-145 Hinodecho, Naka-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.45794",
+        "shop_longitude":"139.645574",
+        "webpage":"www.kumabook.com",
+        "phone_number":"045-683-1021",
+        "nearby_station":"3"
+    },
+    {
+        "shop_type":"3",
+        "shop_name":"Electrical shop27",
+        "shop_address":"B4 Floor, MARK IS Minatomirai Store, 3-5-1 Minatomirai, Nishi-ku, Yokohama-shi, Kanagawa",
+        "shop_latitude":"35.455633",
+        "shop_longitude":"139.634581",
+        "webpage":"www.shop.smt.docomo.ne.jp",
+        "phone_number":"0120-603-710",
+        "nearby_station":"3"
+    }
+]
